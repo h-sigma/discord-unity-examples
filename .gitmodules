@@ -1,0 +1,3 @@
+[submodule "Assets/HarshCommon"]
+	path = Assets/HarshCommon
+	url = https://github.com/h-sigma/HarshCommon
